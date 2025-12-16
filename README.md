@@ -81,13 +81,3 @@ The full design philosophy and franchise vision are documented in the Narrative 
 **Dylan Kendall**  
 Computer Science & Software Engineering student  
 Interactive narrative & systems-focused design
-
----
-
-## License
-
-Shared for educational and portfolio purposes.
-
-- Not licensed for commercial use
-- Do not redistribute or modify without permission
-- Twine story formats are used under their respective licenses
